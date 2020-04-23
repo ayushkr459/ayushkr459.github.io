@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://ayushkumar.netlify.com/</loc>
+  <lastmod>2020-03-21T07:28:55+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://ayushkumar.netlify.com/index.html</loc>
+  <lastmod>2020-03-21T07:28:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+<!-- OpenGraph -->
+<meta property="og:title" content="ayushkumar.netlify.com - Portfolio" />
+<meta property="og:description" content="An aspiring Web Developer who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills and an academic background in computer applications.Feel free to get in touch with me." />
+<meta property="og:url" content="http://ayushkumar.netlify.com" />
+<meta property="og:image" content="https://ayushkumar.netlify.com/images/ayu.webp" />
+
+<meta name="og:title" content="Ayush Kumar"/>
+<meta name="og:type" content="Portfolio"/>
+<meta name="og:url" content="http://ayushkumar.netlify.com"/>
+<meta name="og:image" content="https://ayushkumar.netlify.com/images/ayu.webp"/>
+<meta name="og:site_name" content="Portfolio"/>
+<meta name="og:description" content="An aspiring Web Developer who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills and an academic background in computer applications.Feel free to get in touch with me."/>
+
+<!--<meta name="fb:page_id" content="43929265776" />-->
+
+
+<!-- Twitter -->
+<meta name="twitter:card" content="An aspiring Web Developer who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills and an academic background in computer applications.Feel free to get in touch with me.">
+<meta name="twitter:site" content="@ayushkr459">
+<meta name="twitter:url" content="https://twitter.com/AyushKu57421342?s=09.com">
+<meta name="twitter:title" content="Web-Developer | UI Designer">
+<meta name="twitter:description" content="A cup of Coffee and coding is my thing.">
+<meta name="twitter:image" content="https://avatars3.githubusercontent.com/u/56274365?s=400&u=ba2b4a08a874e3e1db8e77cb9f61364171ff9f46&v=4">
+
+
+<meta name="og:email" content="ayushkr459@gmail.com"/>
+<meta name="og:phone_number" content="620-697-3388"/>
+  <meta charset="utf-8">
+	<meta name="keywords" content="Web-design,Web-Developer,fullstack-developer,portfolio,UI,UX,UI/UX Designer,FrontendDeveloper,Backend Developer,html,css,JavaScript,jquery,php,mysql"/>
+	<meta name="description" content="An aspiring Web Developer who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills and an academic background in computer applications.Feel free to get in touch with me."/>
+	<meta name="subject" content="Portfolio">
+	<meta name="copyright"content="Ayush Kumar">
+	<meta name="language" content="ES">
+	<meta name="robots" content="index,follow" />
+	<meta name="revised" content="Saturday 21st, 2020, 5:15 am" />
+	<meta name="Classification" content="Business">
+	<meta name="author" content="Ayush, ayushkr459@gmail.com">
+	<meta name="designer" content="Ayush">
+	<meta name="owner" content="Ayush Kumar">
+	<meta name="url" content="http://www.itsayushkumar.netlify.com">
+	<meta name="identifier-URL" content="http://www.websiteaddress.com">
+	<meta name="category" content="portfolio">
+	<meta name="coverage" content="Worldwide">
+	<meta name="distribution" content="Global">
+	<meta name="rating" content="General">
+	<meta name="revisit-after" content="7 days">
+	<meta http-equiv="Expires" content="0">
+	<meta http-equiv="Pragma" content="no-cache">
+	<meta http-equiv="Cache-Control" content="no-cache">
+
+
+
+</urlset>
